@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0e01706e-b35b-485e-b31b-8d83153ab098" name="Default Changelist" comment="" />
+    <list default="true" id="0e01706e-b35b-485e-b31b-8d83153ab098" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springbootService/.idea/artifacts/springbootService_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootService/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConfig/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConfig/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConfig/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConfig/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConfig/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConfig/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerFeign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerFeign/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerFeign/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerFeign/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerFeign/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerFeign/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootService/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootService/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootService/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/target/classes/bootstrap.yml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="46">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -36,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            <state relative-caret-position="138">
+              <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -51,6 +67,13 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>release</find>
+      <find>60</find>
+      <find>50</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
@@ -63,9 +86,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="724" />
-    <option name="width" value="874" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="567" />
+    <option name="width" value="1031" />
     <option name="height" value="922" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -107,13 +130,6 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="sun" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springbootEureka" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springbootEureka" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -185,16 +201,19 @@
       <updated>1610096447639</updated>
       <workItem from="1610096464390" duration="2500000" />
       <workItem from="1610103169161" duration="2487000" />
+      <workItem from="1610158979950" duration="41000" />
+      <workItem from="1610200247841" duration="3862000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4987000" />
+    <option name="totallyTimeSpent" value="8890000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21317829" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3625" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -205,7 +224,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.68039775" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.57528406" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -242,8 +261,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="46">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -252,8 +271,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+        <state relative-caret-position="138">
+          <caret line="6" column="7" lean-forward="true" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
         </state>
       </provider>
     </entry>

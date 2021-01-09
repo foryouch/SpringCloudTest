@@ -1,0 +1,9 @@
+common\utils\CommUtils.class
+sun\ConsumerClientApplication.class
+sun\controller\ServiceController.class
+sun\entity\ServiceInfo.class
+common\utils\JsonUtils.class
+common\entity\RestfulResult.class
+common\utils\JsonMapper$2.class
+common\utils\JsonMapper.class
+common\utils\JsonMapper$1.class

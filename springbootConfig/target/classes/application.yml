@@ -1,5 +1,6 @@
+#6000是eureka 6001是config 6003是feigh 61xx是服务
 server:
-  port: 6002
+  port: 6001
 spring:
   application:
     name: springbootConfig
@@ -17,7 +18,7 @@ spring:
 eureka:
   client:
     service-url:
-      defaultZone: http://localhost:5000/eureka/
+      defaultZone: http://localhost:6000/eureka/
   instance:
     preferIpAddress: true
     instance-id: ${spring.cloud.client.ipAddress}:${server.port}

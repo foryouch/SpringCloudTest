@@ -3,5 +3,6 @@ spring:
     name : springbootService
   cloud:
     config:
-      uri : http://localhost:6002/
-      profile : release
+      uri : http://localhost:6001/
+      profile : debug
+      label:
