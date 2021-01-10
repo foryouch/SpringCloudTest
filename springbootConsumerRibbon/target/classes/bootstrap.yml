@@ -1,6 +1,6 @@
 spring:
   application:
-    name : springbootService
+    name : springbootConsumerRibbon
   cloud:
     config:
       uri : http://localhost:6001/

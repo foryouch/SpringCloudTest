@@ -1,4 +1,4 @@
-#6000是eureka 6001是config 6003是feigh 61xx是服务
+#6000是eureka 6001是config 6003是feigh 6004是ribbon 6005是zull 61xx是服务
 server:
   port: 6001
 spring:

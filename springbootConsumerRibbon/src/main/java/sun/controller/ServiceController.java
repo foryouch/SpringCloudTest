@@ -6,6 +6,7 @@ package sun.controller;
 import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Value;
+import org.springframework.context.annotation.Bean;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
@@ -21,11 +22,17 @@ public class ServiceController {
     @Value("${server.port}")
     String port;
 
+    @Bean
+    public RestTemplate restTemplate(){
+        return new RestTemplate();
+    }
+
     // 调用：localhost:6007/consumerServiceRibbon?token=1
     @RequestMapping("/consumerServiceRibbon")
     @HystrixCommand(fallbackMethod="consumerServiceRibbonFallback")
     public String consumerServiceRibbon(@RequestBody ServiceInfo serviceInfo){
-        String result = this.restTemplate.postForObject("http://springbootService/service/rest?token=1", serviceInfo, String.class);
+        //String result = this.restTemplate.postForObject("http://springbootService/service/rest?token=1", serviceInfo, String.class);
+        String result = this.restTemplate.postForObject("http://localhost:6101/service/rest?token=1", serviceInfo, String.class);
         return result;
     }
 

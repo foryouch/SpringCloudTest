@@ -7,21 +7,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f7da0ce3-de22-4bcf-9a29-3bda4e249204" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../springbootService/.idea/artifacts/springbootService_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../springbootService/src/main/java/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootConfig/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConfig/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootConfig/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConfig/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootConfig/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConfig/target/classes/application.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootConsumerFeign/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerFeign/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootConsumerFeign/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerFeign/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootConsumerFeign/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerFeign/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/src/main/java/sun/ConsumerClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/src/main/java/sun/ConsumerClientApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/src/main/java/sun/controller/ServiceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/src/main/java/sun/controller/ServiceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/sun/ConsumerClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/sun/ConsumerClientApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/sun/controller/ServiceController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootConsumerRibbon/target/classes/sun/controller/ServiceController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootEureka/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootEureka/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootEureka/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootEureka/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootService/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../springbootService/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootService/src/main/resources/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/src/main/resources/bootstrap.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootService/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springbootService/target/classes/bootstrap.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootService/target/classes/bootstrap.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootZuul/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootZuul/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springbootZuul/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../springbootZuul/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -37,7 +42,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="46">
-              <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+              <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -46,7 +51,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="69">
-              <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -54,7 +59,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="138">
               <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -66,7 +71,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
+            <state relative-caret-position="184">
               <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -148,8 +153,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-184">
-              <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            <state relative-caret-position="161">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -209,7 +214,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="567" />
     <option name="width" value="1031" />
     <option name="height" value="922" />
@@ -221,7 +226,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -252,6 +256,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,7 +269,7 @@
     <property name="RequestMappingsPanelWidth2" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610206989513" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1610248564391" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -310,18 +315,19 @@
       <workItem from="1610159029199" duration="862000" />
       <workItem from="1610177811879" duration="2866000" />
       <workItem from="1610196328992" duration="1692000" />
-      <workItem from="1610199074815" duration="6340000" />
+      <workItem from="1610199074815" duration="6348000" />
+      <workItem from="1610247633197" duration="796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30885000" />
+    <option name="totallyTimeSpent" value="31689000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1618" height="870" extended-state="7" />
+    <frame x="-9" y="-9" width="1618" height="870" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49867725" visible="true" weight="0.3011658" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49867725" visible="true" weight="0.30051813" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -332,7 +338,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.37357953" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.60227275" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -400,6 +406,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="65" selection-start-line="2" selection-start-column="65" selection-end-line="2" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/common/entity/RestfulResult.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -462,44 +502,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/bootstrap.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/ConsumerClientApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/sun/controller/ServiceController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-184">
-          <caret line="7" column="46" lean-forward="true" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="43" selection-start-line="2" selection-start-column="43" selection-end-line="2" selection-end-column="43" />
+        <state relative-caret-position="161">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
         </state>
       </provider>
     </entry>
